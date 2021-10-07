@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @melchanatan
+# 👋 Hi, I’m mel chanatan
   👀 I’m interested in Web development, Machine learning  
   🌱 I’m currently learning React.js
 
