@@ -1,5 +1,5 @@
 # 👋 Hi, I’m mel chanatan
-  👀 I’m interested in Web development, Machine learning, Robotic
+  👀 I’m interested in Web development, Machine learning and Robotic  
   🌱 I’m currently learning React.js
 
 Check out more of my Project and learning at 
