@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @melchanatan
-  👀 I’m interested in Web development, Machine learning
+  👀 I’m interested in Web development, Machine learning  
   🌱 I’m currently learning React.js
 
 Check out more of my Project and learning at 
