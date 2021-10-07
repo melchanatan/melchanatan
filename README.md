@@ -1,12 +1,12 @@
 # 👋 Hi, I’m @melchanatan
-- 👀 I’m interested in Web development, Machine learning
-- 🌱 I’m currently learning React.js
+  👀 I’m interested in Web development, Machine learning
+  🌱 I’m currently learning React.js
 
 Check out more of my Project and learning at 
 - [replit](https://replit.com/@melllll) <br/>
 - [leetcode](https://leetcode.com/melchanatan/) <br/>
 
-![Alt Text](https://giphy.com/gifs/bear-hello-waving-IThjAlJnD9WNO)
+![bear waving](https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif)
 
 <!---
 melchanatan/melchanatan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
