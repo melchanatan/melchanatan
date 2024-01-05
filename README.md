@@ -1,11 +1,14 @@
-# 👋 Hi, I’m mel chanatan
-  👀 I’m interested in Web development, Machine learning and Robotic  
+# Hi, i'm mel chanatan! 👋
 
-Check out more of my Project and learning at 
-- [replit](https://replit.com/@melllll) <br/>
-- [leetcode](https://leetcode.com/melchanatan/) <br/>
+I'm a student, aspiring software engineer, web/app developer and mediocre UI/UX designer. 
 
-![bear waving](https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif)
+### A bit about me
+- I love builting project with React and Next JS. Currently learning Rust and catch up on Software Achitecture
+- I enjoy making and buying aesthetically pleasing thing🌟 
+- My hobby include drawing, anime, cooking🍳 and looking at custom keyboard on facebook group (kidda sad but true, desperately need to make money to buy more)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melchanatan&hide_progress=true)
+
 
 <!---
 melchanatan/melchanatan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
