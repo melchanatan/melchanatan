@@ -1,11 +1,12 @@
-# Hi, i'm mel chanatan! 👋
+# Hi, I'm mel chanatan! 👋
 
-I'm a student, aspiring software engineer, web/app developer and mediocre UI/UX designer. 
+I'm a student, aspiring software engineer, web/app developer, and mediocre UI/UX designer. 
 
 ### A bit about me
-- I love builting project with React and Next JS. Currently learning Rust and catch up on Software Achitecture
-- I enjoy making and buying aesthetically pleasing thing🌟 
-- My hobby include drawing, anime, cooking🍳 and looking at custom keyboard on facebook group (kidda sad but true, desperately need to make money to buy more)
+- I love building projects with React and Next JS. Currently learning Rust and catching up on Software architecture
+- I enjoy making and buying aesthetically pleasing things 🌟 
+- My hobbies includes drawing, anime, cooking🍳 and looking at custom keyboards on facebook groups (kinda sad but true, desperately need to make money to buy more)
+- Currently reminding myself to document my code and write meaningful commit messages (reminding meself not to be lazy)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melchanatan&hide_progress=true&title_color=1A596D)
 
