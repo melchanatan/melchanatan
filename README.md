@@ -7,7 +7,7 @@ I'm a student, aspiring software engineer, web/app developer and mediocre UI/UX 
 - I enjoy making and buying aesthetically pleasing thing🌟 
 - My hobby include drawing, anime, cooking🍳 and looking at custom keyboard on facebook group (kidda sad but true, desperately need to make money to buy more)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melchanatan&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melchanatan&hide_progress=true&title_color=1A596D)
 
 
 <!---
