@@ -1,6 +1,7 @@
 # Hi, I'm mel chanatan! 👋
 
 I'm a student, aspiring software engineer, web/app developer, and mediocre UI/UX designer. 
+🌟 Current project(s): Toyota Campus Challenge 2023, Lotus's HYPER HACK
 
 ### A bit about me
 - I love building projects with React and Next JS. Currently learning Rust and catching up on Software architecture
