@@ -1,6 +1,6 @@
 
 # Hi, I'm Mel Chanatan! 👋
-## A product engineer who’s obsessed with great user experiences.
+> A product engineer who’s obsessed with great user experiences.
 
 ## A bit about me
 -   I love building things that are both **useful** and **a joy to use**.
